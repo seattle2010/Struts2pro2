@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Struts 2" type="struts2">
+    <CLASSES>
+      <root url="jar://C:/struts2/struts2的jar包/asm-3.3.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/asm-commons-3.3.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/asm-tree-3.3.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/commons-fileupload-1.3.1.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/commons-io-2.2.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/commons-lang3-3.2.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/freemarker-2.3.22.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/javassist-3.11.0.GA.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/log4j-api-2.2.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/log4j-core-2.2.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/ognl-3.0.6.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/struts2-core-2.3.24.jar!/" />
+      <root url="jar://C:/struts2/struts2的jar包/xwork-core-2.3.24.jar!/" />
+      <root url="jar://C:/struts2/lombok.jar!/" />
+      <root url="jar://C:/struts2/mysql-connector-java-5.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
