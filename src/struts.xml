@@ -26,4 +26,14 @@
             <result>/welcome.jsp</result>
         </action>
     </package>
+
+    <package name="crudPkg" extends="struts-default" namespace="/">
+        <action name="product_*" class="com.web.action.ProductAction" method="{1}">
+            <result name="success" type="redirectAction">product_execute</result>
+            <result name="list">/list.jsp</result>
+            <result name="input">/edit.jsp</result>
+
+        </action>
+    </package>
+
 </struts>
